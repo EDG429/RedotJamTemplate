@@ -1,0 +1,18 @@
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\Redot Game Jam Template.deps.json
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\Redot Game Jam Template.runtimeconfig.json
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\Redot Game Jam Template.dll
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\Redot Game Jam Template.pdb
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.AssemblyInfo.cs
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.sourcelink.json
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Ga.82B24B95.Up2Date
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.dll
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\refint\Redot Game Jam Template.dll
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.pdb
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\Redot Game Jam Template.genruntimeconfig.cache
+C:\Users\pc\Downloads\RedotJamTemplate-main\RedotJamTemplate-main\RedotJamTemplate\.godot\mono\temp\obj\Debug\ref\Redot Game Jam Template.dll
